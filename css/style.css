@@ -1,0 +1,86 @@
+.rev {
+    top: 68%;
+    left: 64%;
+    transform: translate(-50%);
+    max-width: 100%;
+}
+.rev2 {
+    top: 4%;
+    left: 64%;
+    max-width: 100%;
+    transform: translate(-50%)
+}
+.rev3 {
+    max-width: 100%;
+    transform: translate(-50%)
+}
+.rev4 {
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+
+    background-image: url('../pictures/Mask group.svg');
+    background-size: cover; 
+    cursor: pointer; 
+}
+.rotated {
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+}
+.sold {
+    position: absolute;
+    right: 0px;
+    top: 18px;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+
+    background-image: url('../pictures/span.qodef-woo-product-mark.svg');
+    cursor: pointer; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 67.73px;
+    height: 35px;
+}
+.new {
+    position: absolute;
+    right: 0px;
+    top: 18px;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+
+    background-image: url('../pictures/span.qodef-woo-product-mark-1.svg');
+    cursor: pointer; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 67.73px;
+    height: 35px;
+}
+.background-img {
+    background-image: url(../pictures/section.elementor-section\ \(4\).svg);
+    position: relative;
+    top: 0;
+    left: 0;
+    background-position: cover;
+}
+.rev3 {
+    position: absolute;
+    right: 0px;
+    top: 25px;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+
+    background-image: url('../pictures/Mask group.svg');
+    background-size: cover; 
+    cursor: pointer; 
+}
+.header-font {
+    font-family: 'Space Mono', monospace;
+}
+.head-font {
+    font-family: 'Anton', sans-serif;
+
+
+
+}
